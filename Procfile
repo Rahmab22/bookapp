@@ -1,1 +1,1 @@
-bookpostdeploy: php bin/console doctrine:migrations:migrate --no-interaction 
+web : php bin/console doctrine:migrations:migrate --no-interaction 
